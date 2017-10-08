@@ -12,7 +12,7 @@
  7. 使用eslint进行js代码的规范
  8. webpack打包处理
 ## 在线预览 ##
-[demo](http://120.24.185.226:9000/#/home)
+[demo](http://47.95.202.215:8080/#/home)
 (PC端建议开启chrome调试模式食用更佳，移动端直接在浏览器开启即可 )
 ## GIF ##
 ![这里写图片描述](http://oct3pmpde.bkt.clouddn.com/GIF.gif)
